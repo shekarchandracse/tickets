@@ -1,11 +1,11 @@
 {
 "tickets":[  
   {
-  "cc_emails" : ["ram@freshdesk.com", "diana@freshdesk.com"],
-  "fwd_emails" : [ ],
-  "reply_cc_emails" : ["ram@freshdesk.com", "diana@freshdesk.com"],
-  "email_config_id" : null,
-  "group_id" : null,
+     "cc_emails" : ["ram@freshdesk.com", "diana@freshdesk.com"],
+     "fwd_emails" : [ ],
+      "reply_cc_emails" : ["ram@freshdesk.com", "diana@freshdesk.com"],
+     "email_config_id" : null,
+     "group_id" : null,
   "priority" : 1,
   "requester_id" : 129,
   "responder_id" : null,
@@ -29,27 +29,7 @@
   "custom_fields" : {
    "category" : null
   },
-  "tags" : [ ],
-  "attachments":[
-     {
-        "id":4004881085,
-        "content_type":"image/jpeg",
-        "file_size":44115,
-        "name":"attachment1.jpg",
-        "attachment_url":"https://cdn.freshdesk.com/data/helpdesk/attachments/production/4004881085/original/attachment.jpg"
-        "created_at":"2014-07-28T16:20:03+05:30",
-        "updated_at":"2014-07-28T16:20:03+05:30",
-     },
-     {
-        "id":4004881086,
-        "content_type":"image/jpeg",
-        "file_size":44134,
-        "name":"attachment2.jpg",
-        "attachment_url":"https://cdn.freshdesk.com/data/helpdesk/attachments/production/4004881085/original/attachment2.jpg"
-        "created_at":"2014-07-28T16:20:03+05:30",
-        "updated_at":"2014-07-28T16:20:03+05:30",
-     }
-  ]
+  "tags" : [ ]
 },
  {
   "cc_emails" : ["ram@freshdesk.com", "diana@freshdesk.com"],
@@ -80,27 +60,7 @@
   "custom_fields" : {
    "category" : null
   },
-  "tags" : [ ],
-  "attachments":[
-     {
-        "id":4004881085,
-        "content_type":"image/jpeg",
-        "file_size":44115,
-        "name":"attachment1.jpg",
-        "attachment_url":"https://cdn.freshdesk.com/data/helpdesk/attachments/production/4004881085/original/attachment.jpg"
-        "created_at":"2014-07-28T16:20:03+05:30",
-        "updated_at":"2014-07-28T16:20:03+05:30",
-     },
-     {
-        "id":4004881086,
-        "content_type":"image/jpeg",
-        "file_size":44134,
-        "name":"attachment2.jpg",
-        "attachment_url":"https://cdn.freshdesk.com/data/helpdesk/attachments/production/4004881085/original/attachment2.jpg"
-        "created_at":"2014-07-28T16:20:03+05:30",
-        "updated_at":"2014-07-28T16:20:03+05:30",
-     }
-  ]
+  "tags" : [ ]
 }
 ]
 }
