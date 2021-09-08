@@ -30,16 +30,26 @@
    "category" : null
   },
   "tags" : [ ],
-    "attachments":[
+   "attachments":[
      {
         "id":4004881085,
         "content_type":"image/jpeg",
         "file_size":44115,
         "name":"attachment1.jpg",
-        "attachment_url":"https://cdn.freshdesk.com/data/helpdesk/attachments/production/4004881085/original/attachment.jpg"
+        "attachment_url":"https://cdn.freshdesk.com/data/helpdesk/attachments/production/4004881085/original/attachment.jpg",
+        "created_at":"2014-07-28T16:20:03+05:30",
+        "updated_at":"2014-07-28T16:20:03+05:30",
+     },
+     {
+        "id":4004881086,
+        "content_type":"image/jpeg",
+        "file_size":44134,
+        "name":"attachment2.jpg",
+        "attachment_url":"https://cdn.freshdesk.com/data/helpdesk/attachments/production/4004881085/original/attachment2.jpg",
+        "created_at":"2014-07-28T16:20:03+05:30",
         "updated_at":"2014-07-28T16:20:03+05:30",
      }
-    ]
+  ]
 },
  {
   "cc_emails" : ["ram@freshdesk.com", "diana@freshdesk.com"],
@@ -71,16 +81,26 @@
    "category" : null
   },
   "tags" : [ ],
-    "attachments":[
+   "attachments":[
      {
         "id":4004881085,
         "content_type":"image/jpeg",
         "file_size":44115,
         "name":"attachment1.jpg",
-        "attachment_url":"https://cdn.freshdesk.com/data/helpdesk/attachments/production/4004881085/original/attachment.jpg"
+        "attachment_url":"https://cdn.freshdesk.com/data/helpdesk/attachments/production/4004881085/original/attachment.jpg",
+        "created_at":"2014-07-28T16:20:03+05:30",
+        "updated_at":"2014-07-28T16:20:03+05:30",
+     },
+     {
+        "id":4004881086,
+        "content_type":"image/jpeg",
+        "file_size":44134,
+        "name":"attachment2.jpg",
+        "attachment_url":"https://cdn.freshdesk.com/data/helpdesk/attachments/production/4004881085/original/attachment2.jpg",
+        "created_at":"2014-07-28T16:20:03+05:30",
         "updated_at":"2014-07-28T16:20:03+05:30",
      }
-    ]
+  ]
 }
 ]
 }
