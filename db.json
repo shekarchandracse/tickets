@@ -6,7 +6,7 @@
   "reply_cc_emails" : ["ram@freshdesk.com", "diana@freshdesk.com"],
   "email_config_id" : null,
   "group_id" : null,
-  "{priority" : 1,
+  "priority" : 1,
   "requester_id" : 129,
   "responder_id" : null,
   "source" : 2,
